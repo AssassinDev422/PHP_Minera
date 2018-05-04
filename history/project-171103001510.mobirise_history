@@ -1,0 +1,719 @@
+{
+  "settings": {
+    "name": "Signing Miners",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#5aac98",
+        "secondaryColor": "#A25DAE",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 32,
+    "versionPublish": "3.10.4",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "mcShopcart": {
+      "email": "alexandr@signingminers.com"
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favi-128x128-67.png",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Signing Miners",
+        "meta_descr": "Signing Miners : Cloud Mining and CryptoCurrency Experts . ",
+        "header_custom": "<link rel=”image_src” href=”http://www.signingminers.com/assets/blockchain.png” />",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fffffd"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fffffd"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fffffd",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#fffffd"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#fffffd"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fffffd"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#62cab1"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#57c6ab!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#62cab1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fffffd",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fffffd"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fffffd!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-k",
+          "_params": {
+            "bgColor": "#62cab1",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#fffffd",
+            "fontHoverColor": "#fffffd",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SIGNINGMINERS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features19-g\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#toggle1-o\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "bottom"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "iconsBgColor": "#fff",
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgColor": "#5b5f6b",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#91683b",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showFeatures": true,
+            "columns": "2",
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "SigningMiners",
+          "text": "SigningMiners make mining cryptocurrency easy. We've done the hard work of meticulously researching miners that are profitable for us (and you) !",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"dashboard/index.php\" data-toolbar=\"-mbrBtnMove\">Dashboard</a> ",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "newWindow": false
+            }
+          },
+          "title1": "CoLocate",
+          "text1": "Send us your miners and we'll host them for you in our data center!",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "newWindow": false
+            }
+          },
+          "title2": "Purchase Hash Power",
+          "text2": "Purchase hashpower from our miners by cryptocurrency type.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title3": "Purchase Hash Power",
+          "text3": "Purchase hashpower from our miners by cyrptocurrency type.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "header": "For business",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "credit-card",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle1": "Awesome",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle2": "Awesome",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "pages",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle3": "Awesome",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "shoping-cart",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle4": "Awesome",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle5": "Awesome",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle6": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features19",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_anchor": "features19-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": 2,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Signing Miners Features",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "title1": "Power Costs / Fees",
+          "text1": "Unlike most cloud mining and co-location sites, our hashpower purchase plans provide power at an affordable rate. &nbsp;It's how we stay competitive with big farm cloud mining operations.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title2": "Maintenance Fees",
+          "text2": "Maintenance fees are simple, 5% of earnings from your miners.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title3": "Mining Analytics",
+          "text3": "We provide your earning analytics on your hashpower and/or miners that are co-located so that you can see where you stand at any given time.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title4": "Limited Capacity",
+          "text4": "Our capacity is limited so get your miners and hashing power while it's still availible. &nbsp;We can only support 500 miners with our current setup.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title5": "Host Anywhere",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title6": "Bootstrap 4",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "toggle1",
+          "_anchor": "toggle1-o",
+          "_params": {
+            "tabs": "3",
+            "collapseAll": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": false
+          },
+          "title": "FAQ's",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is HashPower?</a>",
+          "text1": "<p>Cryptocurrency mining power (HashPower) &nbsp;is rated on a scale of Hashes per seconds. Every time a miner successfully solves a block, a new hash is created. A hash algorithm turns this large amount of transaction data into a fixed-length hash.</p><p>Like a code, if you know the algorithm you can solve a hash and get the original transaction data out. &nbsp;But to the ordinary eye, it's just a bunch of numbers crammed together and remains practically impossible to get the original data out.</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-o\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">What about Power?</a>",
+          "text2": "<p>Cryptocurrency mining trades electrical/physical power to digital currency. &nbsp;Mining machines require significant power requirements.</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">What types of CryptoCurrency?</a>",
+          "text3": "<p>Signing Miners mines:<br>Bitcoin ( BTC ) &nbsp;- Official Website&nbsp;<br>Dashcoin ( Dashcoin ) - Official Website&nbsp;<br>Litecoin ( LTC ) - Official Website</p>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Learn Now!",
+          "text": "Interested in learning more about cryptocurrency ?&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://medium.com/@signingminers\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW BLOG</a>"
+        },
+        {
+          "_styles": {
+            ".plan-wrap.default .plan-title": {
+              "background": "#6ca4cf"
+            },
+            ".plan-wrap.favorite .plan-title": {
+              "background": "#62cab1"
+            }
+          },
+          "text19": "Lorem ipsa, nobis.",
+          "text29": "Lorem ipsa, nobis.",
+          "text39": "Lorem ipsa, nobis.",
+          "text47": "Loipsa. consectetur.",
+          "text49": "Lorem ipsa, nobis.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-i",
+          "_params": {
+            "defaultColor": "#6ca4cf",
+            "favoriteColor": "#62cab1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "default",
+            "rows": "4",
+            "showButtons": true,
+            "secondType": "default",
+            "thirdType": "default",
+            "fourthType": "favorite"
+          },
+          "title": "Mining Pricing",
+          "subtitle": "Bitcoin is not the only cryptocurrency we offer a variety of hashpower for different coins.&nbsp;",
+          "title1": "Bitcoin Hash Power",
+          "text111": "<span class=\"price\">200</span>",
+          "currency": "$",
+          "text112": "<br>per TH",
+          "text12": "5% Maintenance",
+          "text13": "$0 Setup Fee",
+          "text14": "2 Year Contract",
+          "text15": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text16": "Nesciunt! ipsum dolor.",
+          "text17": "Loipsa. consectetur.",
+          "text18": "Lorensectetur, omnis.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=200.00&amp;item_name=Bitcoin+HashPower+(+1+TH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-primary-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>",
+          "title2": "Litecoin Hash Power",
+          "text211": "<span class=\"price\">1,200</span>",
+          "text212": "<br>per MH",
+          "text22": "5% Maintenance",
+          "text23": "$0 Setup Fee",
+          "text24": "2 Year Contract",
+          "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text26": "Nesciunt! ipsum dolor.",
+          "text27": "Loipsa. consectetur.",
+          "text28": "Lorensectetur, omnis.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1200.0&amp;item_name=Litecoin+HashPower+(+1+MH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-black-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">Buy now!</a>",
+          "title3": "Dashcoin Hash Power",
+          "text311": "<span class=\"price\">360</span>",
+          "text312": "<br>per GH",
+          "text32": "5% Maintenance",
+          "text33": "$0 Setup Fee",
+          "text34": "2 Year Contract",
+          "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text36": "Nesciunt! ipsum dolor.",
+          "text37": "Loipsa. consectetur.",
+          "text38": "Lorensectetur, omnis.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=360.00&amp;item_name=Dashcoin+HashPower+(+1+GH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-warning-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>",
+          "title4": "Colocate<br>Miner",
+          "text411": "<span class=\"price\">500</span>",
+          "text412": "<br>per Miner",
+          "text42": "5% Maintenance",
+          "text43": "$100 Setup Fee",
+          "text44": "2 Year Contract",
+          "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text46": "Nesciunt! ipsum dolor.",
+          "text48": "Lorensectetur, omnis.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=CoLocate+Now&amp;currency_code=USD\" class=\"btn btn-lg btn-danger-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>"
+        },
+        {
+          "_styles": {
+            ".count": {
+              "color": "#74a3c7"
+            }
+          },
+          "title4": "Videos",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters1",
+          "_anchor": "counters1-l",
+          "_params": {
+            "countersColor": "#74a3c7",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "containerColor1": "#f7f7f7",
+            "containerColor2": "#f0f0f0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/counters/01.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#fff",
+            "showTitles": true
+          },
+          "number1": "Dashboard",
+          "title1": "&nbsp;Support",
+          "number2": "6,750",
+          "title2": "Mixed Hashpower Capacity",
+          "number3": "500",
+          "title3": "Miner Capacity"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Signing Miners LLC."
+        }
+      ]
+    },
+    "purchase.html": {
+      "settings": {
+        "title": "Signing Miners : Purchase",
+        "meta_descr": "Signing Miners : Cloud Mining and CryptoCurrency Experts . ",
+        "header_custom": "<link rel=”image_src” href=”http://www.signingminers.com/assets/blockchain.png” />"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".plan-wrap.default .plan-title": {
+              "background": "#6ca4cf"
+            },
+            ".plan-wrap.favorite .plan-title": {
+              "background": "#62cab1"
+            }
+          },
+          "text19": "Lorem ipsa, nobis.",
+          "text29": "Lorem ipsa, nobis.",
+          "text39": "Lorem ipsa, nobis.",
+          "text47": "Loipsa. consectetur.",
+          "text49": "Lorem ipsa, nobis.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-u",
+          "_params": {
+            "defaultColor": "#6ca4cf",
+            "favoriteColor": "#62cab1",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "default",
+            "rows": "3",
+            "showButtons": true,
+            "secondType": "default",
+            "thirdType": "default",
+            "fourthType": "favorite"
+          },
+          "title": "Mining Pricing",
+          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla maxime aspernatur inventore, magnam expedita sequi cum, eius debitis nihil. Aspernatur, incidunt distinctio odio sint, quos non magni neque vel, debitis tenetur deserunt ea cum harum molestias vitae. Veritatis praesentium placeat soluta impedit, distinctio aliquid, officiis labore, facilis eius quia, repudiandae!",
+          "title1": "Bitcoin Hash Power",
+          "text111": "<span class=\"price\">200</span>",
+          "currency": "$",
+          "text112": "<br>per TH",
+          "text12": "5% Maintenance",
+          "text13": "$0 Setup Fee",
+          "text14": "15 GB bandwidth",
+          "text15": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text16": "Nesciunt! ipsum dolor.",
+          "text17": "Loipsa. consectetur.",
+          "text18": "Lorensectetur, omnis.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=200.00&amp;item_name=Bitcoin+HashPower+(+1+TH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-primary-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>",
+          "title2": "Litecoin Hash Power",
+          "text211": "<span class=\"price\">1,200</span>",
+          "text212": "<br>per MH",
+          "text22": "5% Maintenance",
+          "text23": "$0 Setup Fee<br>",
+          "text24": "15 GB bandwidth",
+          "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text26": "Nesciunt! ipsum dolor.",
+          "text27": "Loipsa. consectetur.",
+          "text28": "Lorensectetur, omnis.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1200.00&amp;item_name=Litecoin+HashPower+(+1+MH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-black-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>",
+          "title3": "Dashcoin Hash Power",
+          "text311": "<span class=\"price\">360</span>",
+          "text312": "<br>per GH",
+          "text32": "5% Maintenance",
+          "text33": "$0 Setup Fee",
+          "text34": "15 GB bandwidth",
+          "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text36": "Nesciunt! ipsum dolor.",
+          "text37": "Loipsa. consectetur.",
+          "text38": "Lorensectetur, omnis.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=360.00&amp;item_name=Dashcoin+HashPower+(+1+GH+)+&amp;currency_code=USD\" class=\"btn btn-lg btn-warning-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>",
+          "title4": "Colocate<div>Miner</div>",
+          "text411": "500",
+          "text412": "<br>per Miner",
+          "text42": "5% Maintenance",
+          "text43": "$100 Setup Fee",
+          "text44": "15 GB bandwidth",
+          "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "text46": "Nesciunt! ipsum dolor.",
+          "text48": "Lorensectetur, omnis.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=500&amp;item_name=CoLocate+Now&amp;currency_code=USD\" class=\"btn btn-lg btn-danger-outline\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">Buy now!</a>"
+        }
+      ]
+    }
+  }
+}
